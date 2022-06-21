@@ -88,7 +88,7 @@ This software was created and extended upon a TU Delft's Capstone Project (TI315
 * Tristan Dijkstra [@IrTrez](https://github.com/IrTrez)
 * Theodor Falat [@theofalat](https://github.com/theofalat)
 * Tim Hogenelst [@TimGioHog](https://github.com/TimGioHog)
-* Niels Prins [@Niels](https://github.com/Niels)-Prins 
+* Niels Prins [@Niels](https://github.com/Niels-Prins) 
 * Benjamin Slijper [@BenjaminSlijper](https://github.com/BenjaminSlijper)
 * Junzi Sun [@junzis](https://github.com/junzis)  (project tutor)
 
